@@ -158,10 +158,21 @@ publications:
     title: Publications
     intro: |
     papers:
+      - title: "Pruning Neural Machine Translation for Speed Using Group Lasso"
+        link: "http://www.statmt.org/wmt21/pdf/2021.wmt-1.116.pdf"
+        authors: Behnke, M., Heafield, K.
+        conference: "The 6th Conference on Machine Translation (WMT21)"
+        
+      - title: "Efficient Machine Translation with Model Pruning and Quantization"
+        link: "https://www.statmt.org/wmt21/pdf/2021.wmt-1.74.pdf"
+        authors: Behnke, M., Bogoychev, N., Aji, A. F., Heafield, K., Nail, G., Zhu, Q., Tchistiakova, ..., Grundkiewicz, R.
+        conference: "The 6th Conference on Machine Translation (WMT21)"
+        
       - title: "Losing Heads in the Lottery: Pruning Transformer Attention in Neural Machine Translation"
         link: "https://www.aclweb.org/anthology/2020.emnlp-main.211/"
         authors: Behnke, M., Heafield, K.
         conference: "2020 Conference on Empirical Methods in Natural Language Processing (EMNLP)"
+        
       - title: "Edinburgh's Submissions to the 2020 Machine Translation Efficiency Task"
         link: "https://www.aclweb.org/anthology/2020.ngt-1.26/"
         authors: Bogoychev, N., Grundkiewicz, R., Aji, A. F., Behnke, M., Heafield, K., Kashyap, S., ... & Chudyk, M.
