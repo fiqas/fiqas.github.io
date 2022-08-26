@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Maximiliana Behnke
-    tagline: PhD student
+    tagline: Deep Learning R&D Engineer
     avatar: profile_pic.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -51,7 +51,12 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: >
-      I'm a Deep Learning R&D Engineer at Intel. I graduated from a PhD programme at Centre for Doctoral Training programme in Pervasive Parallelism. My research area is exploring and optimising large-scale deep learning methods applied to machine translation. 
+      I'm a Deep Learning R&D Engineer at Intel. 
+      
+      I graduated from a PhD programme at Centre for Doctoral Training programme in Pervasive Parallelism. 
+      
+      My research area is exploring and optimising large-scale deep learning methods applied to machine translation. 
+      
       I'm interested in natural language processing, information retrieval and data mining. 
       
 education:
