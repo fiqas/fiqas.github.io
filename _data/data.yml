@@ -20,7 +20,7 @@ sidebar:
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    #twitter: '@maxi_behnke'
+    twitter: '@maxi_behnke'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
@@ -51,13 +51,13 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: >
-      I'm a PhD student at Centre for Doctoral Training programme in Pervasive Parallelism. My research area is exploring and optimising large-scale deep learning methods applied to machine translation. 
+      I'm a Deep Learning R&D Engineer at Intel. I graduated from a PhD programme at Centre for Doctoral Training programme in Pervasive Parallelism. My research area is exploring and optimising large-scale deep learning methods applied to machine translation. 
       I'm interested in natural language processing, information retrieval and data mining. 
       
 education:
     - degree: Doctor of Philosophy
       university: The University of Edinburgh, United Kingdom
-      time: 2018 - Present
+      time: 2018 - 2022
       details: |
         **Programme**  _Centre for Doctoral Training in Pervasive Parallelism_
         
@@ -65,7 +65,8 @@ education:
         
         **Thesis**  _Structural Pruning for Speed of Neural Machine Translation_
         
-        Graduating in 2022.
+        Passed viva with no corrections.
+        
     
     - degree: Master of Science by Research
       university: The University of Edinburgh, United Kingdom
@@ -92,7 +93,13 @@ education:
         * Graduation ranking: 4/103 (top 5%)
         
         **Scholarships**  Rector’s Scholarship for Best Students 2014-2017
-experiences:              
+experiences:    
+    - role: Deep Learning R&D Engineer
+      time: 2022 - Present
+      company: Intel, Edinburgh, United Kingdom
+      details: |
+              Full-time position.
+
     - role: Consultant
       time: 2020, 2021
       company: Intel, Edinburgh, United Kingdom
