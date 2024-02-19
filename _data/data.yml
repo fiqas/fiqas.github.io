@@ -61,8 +61,10 @@ career-profile:
       My research area is exploring and optimising large-scale deep learning methods applied to machine translation. 
       
       I'm interested in natural language processing, information retrieval and data mining. 
-      
+
 education:
+    title: Education
+    info:
     - degree: Doctor of Philosophy
       university: The University of Edinburgh, United Kingdom
       time: 2018 - 2022
@@ -74,8 +76,6 @@ education:
         **Thesis**  _Structural Pruning for Speed of Neural Machine Translation_
         
         Passed viva with no corrections.
-        
-    
     - degree: Master of Science by Research
       university: The University of Edinburgh, United Kingdom
       time: 2017 - 2018
@@ -101,7 +101,11 @@ education:
         * Graduation ranking: 4/103 (top 5%)
         
         **Scholarships**  Rector’s Scholarship for Best Students 2014-2017
-experiences:    
+
+
+experiences:
+    title: Experiences
+    info:
     - role: Deep Learning R&D Engineer
       time: 2022 - Present
       company: Intel, Edinburgh, United Kingdom
