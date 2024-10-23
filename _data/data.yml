@@ -96,7 +96,7 @@ education:
         
         **Thesis**  _Computer vision and machine learning for automatic extraction of death notices_
         
-        * Average grade: 4.63/5 
+        Average grade: 4.63/5 
         * Thesis grade: 5/5 Viva grade: 5/5
         * Graduation ranking: 4/103 (top 5%)
         
@@ -110,7 +110,10 @@ experiences:
       time: 2022 - Present
       company: Intel, Edinburgh, United Kingdom
       details: |
-              Full-time position.
+              Heterogenous Systems Technologies team in Software and Advanced Technology group.
+              * Leading cross-corporative efforts to provide support for AI models deployed on Intel's CPUs.
+              * Benchmarking and investigating inefficiencies in AI workloads deployed with oneDNN/oneAPI.
+              * Prototyping an inference-focused AI accelerator.
 
     - role: Consultant
       time: 2020, 2021
