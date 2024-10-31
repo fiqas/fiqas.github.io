@@ -54,13 +54,15 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: >
-      I'm a Deep Learning R&D Engineer at Intel. 
+      Hi! My name is Maxi, a Deep Learning R&D Engineer at Intel.
       
       I graduated from a PhD programme at Centre for Doctoral Training programme in Pervasive Parallelism. 
       
       My research area is exploring and optimising large-scale deep learning methods applied to machine translation and language models. 
       
       I am interested in natural language processing, inference optimisation and data mining.
+
+      I am seeking a research-oriented position to leverage expertise in advancing AI technologies and driving innovative solutions.
 
 education:
     title: Education
@@ -158,6 +160,9 @@ projects:
     title: Projects
     intro: >
     assignments:
+      - title: Efficiency Shared Task at Conference on Machine Translation 2021
+        link: https://www.statmt.org/wmt21/efficiency-task.html
+        tagline: "Led the University of Edinburgh's team and worked on preparing the data, training and fine-tuning transformer models for submissions."
       - title: Marian
         link: "https://github.com/fiqas/marian-dev"
         tagline: "Contributing to the development of Marian - a fast C++ Neural Machine Translation toolkit."
@@ -168,7 +173,7 @@ projects:
 
       - title: Gazette Extractor
         link: "https://github.com/fiqas/gazette_extractor"
-        tagline: "The system that extracts death notices and obituaries from 20th century Polish newspapers by applying solutions from computer vision and machine learning."
+        tagline: "The system that extracts death notices and obituaries from 20th century Polish newspapers by applying solutions from computer vision and machine learning. Done before neural networks were the main research direction to go."
 
       - title: Playstation Manual Similarity
         link: "#"
