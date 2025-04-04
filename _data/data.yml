@@ -9,7 +9,7 @@ sidebar:
 
     # Profile information
     name: Maximiliana Behnke
-    tagline: Deep Learning R&D Engineer
+    tagline: Senior Research Engineer
     avatar: profile_pic.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -21,7 +21,7 @@ sidebar:
     # telegram: # add your nickname without '@' sign
     # gitlab:
     # bitbucket:
-    twitter: '@maxi_behnke'
+    # twitter: '@maxi_behnke'
     # stack-overflow: # Number/Username, e.g. 123456/alandoe
     # codewars:
     # goodreads: # Number-Username, e.g. 123456-alandoe
@@ -54,15 +54,16 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: >
-      Hi! My name is Maxi, a Deep Learning R&D Engineer at Intel.
-      
-      I graduated from a PhD programme at Centre for Doctoral Training programme in Pervasive Parallelism. 
-      
-      My research area is exploring and optimising large-scale deep learning methods applied to machine translation and language models. 
-      
-      I am interested in natural language processing, inference optimisation and data mining.
 
-      I am seeking a research-oriented position to leverage expertise in advancing AI technologies and driving innovative solutions.
+Hi! My name is Maxi, I am a Senior Research Engineer at the AI Systems & Architectures team at Microsoft.
+
+I completed a PhD program at the Centre for Doctoral Training in Pervasive Parallelism at the University of Edinburgh. 
+
+My research focuses on optimizing large-scale deep learning methods for machine translation and language models. 
+
+With a strong expertise in natural language processing, I am keenly interested in inference optimization and data mining. 
+
+
 
 education:
     title: Education
@@ -108,8 +109,14 @@ education:
 experiences:
     title: Experiences
     info:
+    - role: Senior Research Engineer
+      time: April 2025 - Present
+      company: Microsoft, Cambridge/Edinburgh, United Kingdom
+      details: |
+              AI Systems & Architectures team in Systems Planning and Architectures group.
+    
     - role: Deep Learning R&D Engineer
-      time: 2022 - Present
+      time: August 2022 - December 2024
       company: Intel, Edinburgh, United Kingdom
       details: |
               Heterogenous Systems Technologies team in Software and Advanced Technology group.
